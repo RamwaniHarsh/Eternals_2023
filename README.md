@@ -13,7 +13,11 @@
 4. Implemented using Supervised Learning.
 
 5. The output will be comprised of :
-  a. Correlation Diagram\n
-  b. Heatmaps by SNS\n
-  c. Prediction and Regression by using Decision Tree to train model\n
-  d. Prediction for next 5 days based on data.\n
+
+  a. Correlation Diagram
+
+  b. Heatmaps by SNS
+
+  c. Prediction and Regression by using Decision Tree to train model
+
+  d. Prediction for next 5 days based on data.
