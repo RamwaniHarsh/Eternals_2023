@@ -14,10 +14,10 @@
 
 5. The output will be comprised of :
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Correlation Diagram
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Correlation Diagram
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Heatmaps by SNS
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Heatmaps by SNS
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Prediction and Regression by using Decision Tree to train model
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Prediction and Regression by using Decision Tree to train model
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Prediction for next 5 days based on data.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Prediction for next 5 days based on data.
